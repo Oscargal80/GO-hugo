@@ -1,4 +1,4 @@
-<h1 align="center">GO-Hugo Terminal Website 👋</h1>
+<h1 align="center">GO-Hugo Terminal 👋</h1>
 <p>
   <a href="https://github.com/Oscargal80/GO-hugo.git" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -24,10 +24,10 @@
 
 ## Install
 Install Hugo, check: https://gohugo.io/getting-started/installing/
-Download this repo
-cd %PATH%
-$hugo -D to check
-$hugo server -D
+<p>Download this repo
+<p>cd %PATH%
+<p>$hugo -D to check
+<p>$hugo server -D
 
 ## Author
 
