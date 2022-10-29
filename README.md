@@ -22,9 +22,12 @@
 
 ## Version Changelog
 
-
 ## Install
-
+Install Hugo, check: https://gohugo.io/getting-started/installing/
+Download this repo
+cd %PATH%
+$hugo -D to check
+$hugo server -D
 
 ## Author
 
