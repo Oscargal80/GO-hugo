@@ -76,7 +76,7 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
         ["WordPress", "https://sites.binariaos.com.py"],
         ["MS-DOS", "https://binariaos.com.py/1980"],
         ["Dev in Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"],
+        ["Hugo Framework", "/works/hugo.md"],
         ["Contact!", "https://wa.me/595981480801"]
     ]
 [module]
