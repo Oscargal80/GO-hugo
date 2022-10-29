@@ -79,3 +79,7 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
         ["Hugo", "/works/hugo.md"],
         ["Contact!", "https://wa.me/595981480801"]
     ]
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.85.0"
