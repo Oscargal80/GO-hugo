@@ -4,7 +4,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/Yukuro/hugo-theme-shell.git" target="_blank">
-    <img alt="License: "github.com/Yukuro/hugo-theme-shell.git" src="https://github.com/Yukuro/hugo-theme-shell.git-yellow.svg" />
+    <img alt="License: github.com/Yukuro/hugo-theme-shell.git src="https://github.com/Yukuro/hugo-theme-shell.git-yellow.svg" />
   </a>
   <a href="https://twitter.com/BinariaOS" target="_blank">
     <img alt="Twitter: BinariaOS" src="https://img.shields.io/twitter/follow/BinariaOS.svg?style=social" />
