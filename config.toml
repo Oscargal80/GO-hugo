@@ -78,7 +78,7 @@ favicon ="/favicon.ico"
         ["Hugo Framework", "/works/hugo.md"],
         ["Contact!", "https://wa.me/595981480801"]
     ]
-   iframe
+ <iframe src="showip.php" height="75%" width="90%"></iframe>
 [module]
   [module.hugoVersion]
     extended = true
