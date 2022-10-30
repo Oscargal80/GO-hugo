@@ -40,7 +40,7 @@ favicon ="favicon-32x32.png"
   stdoutDelay = 5 # stdout speed : [description] , files in Params.Tree
   commandDelay = 80 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
 
-  terminalDelay = 20 #: deprecated
+  terminalDelay = 15 #: deprecated
 
   # Note: speed at which text is displayed on the activity pages
   # Note: if set to 0, typing animation will be disabled
