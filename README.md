@@ -41,5 +41,5 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 © 2022 [Oscargal80](https://github.com/Oscargal80).<br />
-This project is [https://github.com/kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) licensed.
+This project is [https://github.com/Yukuro/hugo-theme-shell.git](https://github.com/Yukuro/hugo-theme-shell.git) licensed.
 
