@@ -3,9 +3,6 @@
   <a href="https://github.com/Oscargal80/GO-hugo.git" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/Yukuro/hugo-theme-shell.git" target="_blank">
-    <img alt="License: ### Yukuro ###
-  </a>
   <a href="https://twitter.com/BinariaOS" target="_blank">
     <img alt="Twitter: BinariaOS" src="https://img.shields.io/twitter/follow/BinariaOS.svg?style=social" />
   </a>
