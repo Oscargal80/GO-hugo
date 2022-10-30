@@ -13,7 +13,7 @@
 
 > README.md
 
-### 🏠 [Homepage](https://binariaos.com.py)
+### 🏠 [Homepage](https://go.binariaos.com.py)
 
 ### ✨ [Demo](https://www.binariaos.com.py)
 
