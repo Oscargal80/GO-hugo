@@ -5,6 +5,7 @@ theme = "hugo-theme-shell"
 # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
 description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Paraguay"
 favicon ="/favicon.ico"
+{{< iframe /showip.php >}}
 
 [Params]
   
@@ -78,7 +79,7 @@ favicon ="/favicon.ico"
         ["Hugo Framework", "/works/hugo.md"],
         ["Contact!", "https://wa.me/595981480801"]
     ]
-   {{< iframe /showip.php >}}
+   
 [module]
   [module.hugoVersion]
     extended = true
