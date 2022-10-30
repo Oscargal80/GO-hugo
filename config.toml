@@ -5,10 +5,6 @@ theme = "hugo-theme-shell"
 # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
 description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Paraguay"
 
-[Site-Params]
-# Path to favicon file
-favicon = "favicon.ico"
-
 [Params]
   
   [Params.Terminal]
