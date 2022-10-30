@@ -4,7 +4,7 @@ title = "BinariaOS App || Desarrollo, Web, Diseño, Asucnión, Paraguay"
 theme = "hugo-theme-shell"
 # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
 description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Paraguay"
-favicon ="favicon.ico"
+favicon ="/static/favicon.ico"
 
 [Params]
   
