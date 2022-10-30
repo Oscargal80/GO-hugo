@@ -3,4 +3,4 @@ title: "iFrame"
 description: "iFrame"
 +++
 
-<iframe src="/showip.php"></iframe>
+<iframe src="http://binariaos.com.py/showipiframe.php"></iframe>
